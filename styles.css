@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+}
+
+.form, .list{
+    width: 40%;
+    padding: 27px;
+}
+
+.list th{
+    border-bottom: 1px solid #5607a5;
+    color: #5607a5;
+}
+.list td{
+    border-bottom: 1px solid #9e96a7;
+    padding: 7px;
+}
+.liste table{
+    min-width: 500px;
+}
